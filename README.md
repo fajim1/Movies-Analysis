@@ -11,7 +11,7 @@ The dataset consists of movies released on or before July 2017. Data points incl
 This dataset also has files containing 26 million ratings from 270,000 users for all 45,000 movies. Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website.
 
 # Using the Files
-The .RData file shows the raw data used for the project. //
+The .RData file shows the raw data used for the project. 
 The .Rmd file shows all the code and write-up. This file can be downloaded and knitted to get the final output.
 The .html file is the knitted R-Markdown file. The rendered file can be found at https://fajim1.github.io/Movies-Analysis/
 The .ppt file contains my groups presentation slides for this project.
