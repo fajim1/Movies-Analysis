@@ -1,5 +1,5 @@
 # Movies-Analysis
-Construct and evaluate different kinds of models to predict a movie’s revenue and profitability as well as evaluate models and find the best predictive model
+Construct and evaluate different kinds of models to predict a movie’s revenue and profitability as well as evaluate models to find the best predictive model
 
 # Motivation
 This project was performed as part of a group for an intro to data science class at the George Washington University. The requirement for this project was to find a sizeable dataset and perform Pre-processing, EDA, Statistial tests (chi-square,anova) and predictive modeling.
